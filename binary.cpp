@@ -35,7 +35,7 @@ int main()
   int result = binarySearch(arr,0,n-1,x);
 
   if(result == -1){
-    cout<<"Element is present";
+    cout<<"Element found";
   }
   else{
     cout<<"Element not found";
