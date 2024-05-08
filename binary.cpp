@@ -26,7 +26,7 @@ int binarySearch(int arr[], int low, int high, int x)
 
 int main()
 {
-  int arr[] = {3,5,8,22,9,1,55};
+  int arr[] = {3,5,8,22,9,1,55,4,6};
 
   int x=10;
 
